@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d108d4ed6d37f059df3c338a0cc92544.png" group-title="Brazil ➾ Movie", BR: Canal Viva
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/14553
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MkVKxeZ.png" group-title="CANAIS | VARIEDADES", VIVA FHD MAX²
 http://7go.xyz:8080/zogbi11/982451290/22725
 
