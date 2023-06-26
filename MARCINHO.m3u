@@ -852,6 +852,8 @@ https://video.wixstatic.com/video/b00560_76c510c417d746bb98155a7a30578a68/720p/m
 https://goo.gl/rmvKhZ
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w342/jvLZHjiJRj2uefPoBlBaF0ohxsL.jpg" group-title="COMÉDIA | NACIONAL", BARBA, CABELO & BIGODE 2022
 https://prussixf3.s3.us-central-1.wasabisys.com/cdn13/ACutAbove.2022.mp4
+#EXTINF:-1 tvg-id="https://pluto.tv/" tvg-logo="https://images.pluto.tv/episodes/611ea67ed24f5e00135dc387/poster.jpg?fill=blur&fit=fill&fm=jpg&auto=&ixlib=react-9.1.5&q=75&w=145&h=200&dpr=2" group-title="TERROR", BETHANY - A AMIGA IMAGINARIA
+https://l1nq.com/bethanyaamigaimaginaria
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO | AVENTURA | COMÉDIA", CHRISTOPHER ROBIN
 https://lh3.googleusercontent.com/V1jodOPNkHqwuEj8aYmx7N2UXDw4d0-k1duVo1puuVu9Hbb6M_XDo9tAXtbXY587rWAqKp8yYf-SXipeoWsp4rI0E_-H8ZT4t8Cc3GSEWe1PjkTFIhGcNaSR5CsBBy_kyjCDeklS-w=m22
@@ -980,6 +982,8 @@ https://jeru2.s3.us-central-1.wasabisys.com/cdn11/DevoradorDeAlmas.mp4
 https://cdn031.fractalmedia.es/hls_adaptive/2e6dc31dae9c68e1299adb0e6b3887cc/2FyLzUOl9A/720/index.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.filmelier.com/tit/Esmoe7/poster/descida-ao-inferno_J6fER9M.jpeg" group-title="TERROR", DESCIDA AO INFERNO 2022
 http://7da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/1/d3sc1d41nf3rn0DUB.mp4
+#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/loft_pt/loft_pt_200x300.jpg" group-title="TERROR", DESEJOS MORTAIS 2010
+https://play.prod.gcp.vix.services/loft_pt/loft_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/counterforce_pt/counterforce_pt_200x300.jpg" group-title="AÇÃO | DRAMA", ESQUADRÃO DA MORTE (1988)
 https://play.pongalo.com/counterforce_pt/counterforce_pt_1-1/play_v1_hls_720p.m3u8
@@ -1027,7 +1031,7 @@ http://6da15e7a4d.qzbbs.gq/deregodego/lastdance/filmcucu/2/crwsp4c3cnf1n4m3nt0DU
 https://troy2.s3.us-central-1.wasabisys.com/cdn13/EsposadeAluguel.2022.mp4
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w342/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg" group-title="AÇÃO | DRAMA | F. CIENTÍFICA | SUSPENSE | TERROR", EU SOU A LENDA 2007
 https://video.wixstatic.com/video/db47f8_b53e539f79e2447c919ead431aeadd2f/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/troubled-waters_pt/troubled-waters_pt_200x300.jpg" group-title="MISTÉRIO", Em ÁGUAS AGITADAS 2019 1h 19min.
+#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/troubled-waters_pt/troubled-waters_pt_200x300.jpg" group-title="MISTÉRIO", EM ÁGUAS AGITADAS 2019 1h 19min.
 https://play.prod.gcp.vix.services/troubled-waters_pt/troubled-waters_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" group-title="CRIME | DRAMA | SUSPENSE", FIM DA ESTRADA 2022
@@ -1501,6 +1505,8 @@ http://9da15e7a4d.studiocity.cf/deregodego/lastdance/filmcucu/2/0m1l4gr3DUB.mp4
 https://video.wixstatic.com/video/db47f8_6c7c4757db044a778222c08baa598532/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/06/xKWAZSjfr8dHyewirbR9NMeTz9j-150x150.jpg" group-title="AÇÃO | DRAMA | TERROR", O GRANDE TSUNAMI 2021
 http://9da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/2/0grnd3tsun4m1DUB.mp4
+#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/the-forest-killer_pt/the-forest-killer_pt_200x300.jpg" group-title="CRIME", O ASSASSINO DA FLORESTA 2014
+https://play.prod.gcp.vix.services/the-forest-killer_pt/the-forest-killer_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn030.fractalmedia.es/thumb/9NQzPbus5z_w640.jpg&w=200&p=1" group-title="TERROR", PHOBIA
 https://cdn037.fractalmedia.es/hls_adaptive/24c50df65a87be157699148780230f7c/9NQzPbus5z/720/index.m3u8
@@ -1578,6 +1584,8 @@ https://play.prod.gcp.vix.services/precipice_pt/precipice_pt_1-1/play_v3_hls_720
 http://8da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/2/pl4yd3dn0sbst1d0r3sd4m0rt3DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.interfilmes.com/FILMES/439800/439814/fotocapa.jpg" group-title="SUSPENSE | TERROR", POST MORTEM - FOTOS DO ALÉM 2021
 http://6da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/1/pstm0rt3mf0t0sd04l3mDUB.mp4
+#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/delirium_pt/delirium_pt_200x300.jpg" group-title="TERROR", PSICOSES 2019
+https://play.prod.gcp.vix.services/delirium_pt/delirium_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 02- OS FILHOTES E O TESOURO PIRATA
